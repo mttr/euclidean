@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>euclidean</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>assetss</name>
+			<type>2</type>
+			<location>/home/toofarapart/euclidean/assets</location>
+		</link>
+		<link>
+			<name>assetsss</name>
+			<type>2</type>
+			<location>/home/mattr/euclidean/assets</location>
+		</link>
+	</linkedResources>
+</projectDescription>

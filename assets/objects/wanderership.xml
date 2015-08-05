@@ -1,0 +1,14 @@
+<GameObject type="enemy">
+	<PhysicsComponent
+		width="32"
+		height="32"/>
+	<WandererAIComponent/>
+	<ParticleComponent
+		effect="explosion"
+		class="on_death"
+		sound="Explosion46.wav"/>
+	<ParticleComponent
+		effect="enemytrail"
+		class="continuous"/>
+	<DrawComponent texture="wanderership"/>
+</GameObject>

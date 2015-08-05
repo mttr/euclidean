@@ -1,0 +1,10 @@
+<GameObject type="bullet">
+	<BulletComponent
+		width="8"
+		height="8"/>
+	<ParticleComponent
+		effect="bullettest2"
+		class="continuous"
+		sound="Laser_Shoot17.wav"/>
+<!--	<DrawComponent texture="bullet"/>-->
+</GameObject>

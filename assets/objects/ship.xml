@@ -1,0 +1,14 @@
+<GameObject type="player">
+	<InputComponent/>
+	<PhysicsComponent
+		width="32"
+		height="32"/>
+	<ParticleComponent
+		effect="playerengine"
+		class="continuous"/>
+	<ParticleComponent
+		effect="playerdeath"
+		class="on_death"
+		sound="Explosion60.wav"/>
+	<DrawComponent texture="ship"/>
+</GameObject>
